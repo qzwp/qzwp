@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://c.tenor.com/8Z9zL8zL8zMAAAAC/anime-girl-wave.gif" width="140" style="border-radius: 50%; border: 4px solid #ff1493;">
+<img src="https://c.tenor.com/8Z9zL8zL8zMAAAAC/anime-girl-wave.gif" width="140" style="border-radius: 50%; border: 4px solid #ff69b4;">
 
-<h1>✨ <span style="color:#ff1493;">Hey there, I'm qzwp</span> ✨</h1>
+<h1>✨ <span style="color:#ff69b4;">Hey there, I'm qzwp </span> ✨</h1>
 
-<img src="https://c.tenor.com/3z3z3z3z3zMAAAAC/hot-anime-girl.gif" width="300" alt="Hot Anime Waifu">
+<img src="https://c.tenor.com/K3v8zK3v8zMAAAAC/cute-anime-girl-smile.gif" width="300" alt="Cute Anime Girl">
 
 </div>
 
@@ -12,21 +12,21 @@
 
 <div align="center">
 
-### 💖 **🦞** 💖
+### 💖 **Nothin vibin** 💖
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://c.tenor.com/7x7x7x7x7xMAAAAC/anime-girl-hot.gif" width="190"><br>
-      <strong>Seductive energy</strong>
+      <img src="https://c.tenor.com/2z2z2z2z2zMAAAAC/cute-anime-girl-wave.gif" width="190"><br>
+      <strong>Happy waving</strong>
     </td>
     <td align="center">
-      <img src="https://c.tenor.com/9x9x9x9x9xMAAAAC/sexy-anime-dance.gif" width="190"><br>
-      <strong>When the code compiles</strong>
+      <img src="https://c.tenor.com/5x5x5x5x5xMAAAAC/cute-anime-girl-dance.gif" width="190"><br>
+      <strong>Joyful dance</strong>
     </td>
     <td align="center">
-      <img src="https://c.tenor.com/2z2z2z2z2zMAAAAC/hot-waifu.gif" width="190"><br>
-      <strong>Daily motivation</strong>
+      <img src="https://c.tenor.com/9x9x9x9x9xMAAAAC/kawaii-anime-girl-heart.gif" width="190"><br>
+      <strong>Daily cuteness</strong>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://c.tenor.com/4z4z4z4z4zMAAAAC/anime-girl-flirt.gif" width="260">
+<img src="https://c.tenor.com/4z4z4z4z4zMAAAAC/cute-anime-girl-blush.gif" width="260">
 
 **Thanks for visiting!** Let's connect 💕
 
@@ -76,7 +76,7 @@
     color: #ffccdd;
   }
   h1, h2, h3 {
-    color: #ff1493 !important;
-    text-shadow: 0 0 15px #ff69b4;
+    color: #ff69b4 !important;
+    text-shadow: 0 0 15px #ff1493;
   }
 </style>
