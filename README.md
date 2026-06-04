@@ -4,7 +4,7 @@
 
 <h1>✨ <span style="color:#ff69b4;">Hey there, I'm qzwp </span> ✨</h1>
 
-<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="300" alt="Cute Anime Girl">
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="300" alt="Cute Anime Girl Waving">
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 💻 **Script Kiddie ** 💻
+### Script Kiddie💻
 
 <table>
   <tr>
@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/3o7TKSN5b2b2z2z2z2/giphy.gif" width="190"><br>
-      <strong>Python </strong>
+      <strong>Python Magic</strong>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="190"><br>
@@ -60,14 +60,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Light6x)
 
 </div>
-
-<style>
-  body {
-    background: linear-gradient(45deg, #2a0033, #440022);
-    color: #ffccdd;
-  }
-  h1, h2, h3 {
-    color: #ff69b4 !important;
-    text-shadow: 0 0 15px #ff1493;
-  }
-</style>
