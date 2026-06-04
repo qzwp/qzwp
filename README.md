@@ -18,15 +18,15 @@
   <tr>
     <td align="center">
       <img src="https://c.tenor.com/2z2z2z2z2zMAAAAC/cute-anime-girl-wave.gif" width="190"><br>
-      <strong>Happy waving</strong>
+      <strong>Scrolling</strong>
     </td>
     <td align="center">
       <img src="https://c.tenor.com/5x5x5x5x5xMAAAAC/cute-anime-girl-dance.gif" width="190"><br>
-      <strong>Joyful dance</strong>
+      <strong>Telegram</strong>
     </td>
     <td align="center">
       <img src="https://c.tenor.com/9x9x9x9x9xMAAAAC/kawaii-anime-girl-heart.gif" width="190"><br>
-      <strong>Daily cuteness</strong>
+      <strong> chutness</strong>
     </td>
   </tr>
 </table>
