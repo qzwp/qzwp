@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://c.tenor.com/8Z9zL8zL8zMAAAAC/anime-girl-wave.gif" width="140" style="border-radius: 50%; border: 4px solid #ff69b4;">
+<img src="https://media.giphy.com/media/3o7TKsQ8v2z2z2z2z2/giphy.gif" width="140" style="border-radius: 50%; border: 4px solid #ff69b4;">
 
 <h1>✨ <span style="color:#ff69b4;">Hey there, I'm qzwp </span> ✨</h1>
 
-<img src="https://c.tenor.com/K3v8zK3v8zMAAAAC/cute-anime-girl-smile.gif" width="300" alt="Cute Anime Girl">
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="300" alt="Cute Anime Girl">
 
 </div>
 
@@ -12,37 +12,28 @@
 
 <div align="center">
 
-### 💖 **Nothin vibin** 💖
+### 💻 **Script Kiddie Vibes** 💻
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://c.tenor.com/2z2z2z2z2zMAAAAC/cute-anime-girl-wave.gif" width="190"><br>
-      <strong>Scrolling</strong>
+      <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="190"><br>
+      <strong>Terminal Hacker</strong>
     </td>
     <td align="center">
-      <img src="https://c.tenor.com/5x5x5x5x5xMAAAAC/cute-anime-girl-dance.gif" width="190"><br>
-      <strong>Telegram</strong>
+      <img src="https://media.giphy.com/media/3o7TKSN5b2b2z2z2z2/giphy.gif" width="190"><br>
+      <strong>Python Magic</strong>
     </td>
     <td align="center">
-      <img src="https://c.tenor.com/9x9x9x9x9xMAAAAC/kawaii-anime-girl-heart.gif" width="190"><br>
-      <strong> chutness</strong>
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="190"><br>
+      <strong>Scripting Mode</strong>
     </td>
   </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ **Tech Stack** 🛠️
-
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+- 🐍 **Python Enthusiast**
+- ⚡ Building scripts & automating everything
+- 🔥 Script Kiddie doing real stuff
 
 </div>
 
@@ -62,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://c.tenor.com/4z4z4z4z4zMAAAAC/cute-anime-girl-blush.gif" width="260">
+<img src="https://media.giphy.com/media/26BRv0Th5u7z0j0Y8/giphy.gif" width="260">
 
 **Thanks for visiting!** Let's connect 💕
 
