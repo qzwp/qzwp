@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 💻 **Script Kiddie Vibes** 💻
+### 💻 **Script Kiddie ** 💻
 
 <table>
   <tr>
@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/3o7TKSN5b2b2z2z2z2/giphy.gif" width="190"><br>
-      <strong>Python Magic</strong>
+      <strong>Python </strong>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="190"><br>
