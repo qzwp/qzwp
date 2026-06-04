@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qzwp/qzwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://media.giphy.com/media/26ufajqx7QJx4VIMo/giphy.gif" width="280" alt="anime girl"/>
 
-Here are some ideas to get you started:
+  <h1>qzwp</h1>
+  <p><strong>script kiddie in training</strong> 👾</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```bash
+$ whoami
+→ qzwp | python enjoyer | waifu collector
