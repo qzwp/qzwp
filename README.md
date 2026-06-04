@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/8Z9zL8zL8zMAAAAC/anime-girl-wave.gif" width="140" style="border-radius: 50%; border: 4px solid #ff1493;">
 
-<h1>✨ <span style="color:#ff1493;">Hey there, I'm [qzwp]</span> ✨</h1>
+<h1>✨ <span style="color:#ff1493;">Hey there, I'm qzwp</span> ✨</h1>
 
 <img src="https://c.tenor.com/3z3z3z3z3zMAAAAC/hot-anime-girl.gif" width="300" alt="Hot Anime Waifu">
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 💖 **Hot Waifu Vibes** 💖
+### 💖 **🦞** 💖
 
 <table>
   <tr>
